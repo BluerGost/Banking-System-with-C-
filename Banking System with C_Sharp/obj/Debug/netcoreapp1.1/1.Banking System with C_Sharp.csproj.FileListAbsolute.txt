@@ -1,0 +1,9 @@
+H:\C#(.NET)\Banking System with C_Sharp\Banking System with C_Sharp\bin\Debug\netcoreapp1.1\1.Banking System with C_Sharp.deps.json
+H:\C#(.NET)\Banking System with C_Sharp\Banking System with C_Sharp\bin\Debug\netcoreapp1.1\1.Banking System with C_Sharp.runtimeconfig.json
+H:\C#(.NET)\Banking System with C_Sharp\Banking System with C_Sharp\bin\Debug\netcoreapp1.1\1.Banking System with C_Sharp.runtimeconfig.dev.json
+H:\C#(.NET)\Banking System with C_Sharp\Banking System with C_Sharp\bin\Debug\netcoreapp1.1\1.Banking System with C_Sharp.dll
+H:\C#(.NET)\Banking System with C_Sharp\Banking System with C_Sharp\bin\Debug\netcoreapp1.1\1.Banking System with C_Sharp.pdb
+H:\C#(.NET)\Banking System with C_Sharp\Banking System with C_Sharp\obj\Debug\netcoreapp1.1\1.Banking System with C_Sharp.csprojResolveAssemblyReference.cache
+H:\C#(.NET)\Banking System with C_Sharp\Banking System with C_Sharp\obj\Debug\netcoreapp1.1\1.Banking System with C_Sharp.AssemblyInfo.cs
+H:\C#(.NET)\Banking System with C_Sharp\Banking System with C_Sharp\obj\Debug\netcoreapp1.1\1.Banking System with C_Sharp.dll
+H:\C#(.NET)\Banking System with C_Sharp\Banking System with C_Sharp\obj\Debug\netcoreapp1.1\1.Banking System with C_Sharp.pdb
